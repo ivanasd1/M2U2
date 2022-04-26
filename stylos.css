@@ -1,0 +1,22 @@
+header {
+    background-color: rgba(255, 0, 183, 0.781);
+    padding: 20px;
+}
+
+aside {
+    background-color: chartreuse;
+}
+
+.color1 {
+    background-color: grey
+}
+
+.color2 {
+    background-color: lightskyblue;
+}
+
+footer {
+    background-color: royalblue;
+    padding: 1px; 
+    
+}
